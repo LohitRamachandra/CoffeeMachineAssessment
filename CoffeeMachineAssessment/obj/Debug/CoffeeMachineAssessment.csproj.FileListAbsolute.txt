@@ -1,0 +1,7 @@
+C:\Users\Tripurana Lohit\Source\Repos\CoffeeMachineAssessment\CoffeeMachineAssessment\bin\Debug\CoffeeMachineAssessment.exe.config
+C:\Users\Tripurana Lohit\Source\Repos\CoffeeMachineAssessment\CoffeeMachineAssessment\bin\Debug\CoffeeMachineAssessment.exe
+C:\Users\Tripurana Lohit\Source\Repos\CoffeeMachineAssessment\CoffeeMachineAssessment\bin\Debug\CoffeeMachineAssessment.pdb
+C:\Users\Tripurana Lohit\Source\Repos\CoffeeMachineAssessment\CoffeeMachineAssessment\obj\Debug\CoffeeMachineAssessment.csproj.AssemblyReference.cache
+C:\Users\Tripurana Lohit\Source\Repos\CoffeeMachineAssessment\CoffeeMachineAssessment\obj\Debug\CoffeeMachineAssessment.csproj.CoreCompileInputs.cache
+C:\Users\Tripurana Lohit\Source\Repos\CoffeeMachineAssessment\CoffeeMachineAssessment\obj\Debug\CoffeeMachineAssessment.exe
+C:\Users\Tripurana Lohit\Source\Repos\CoffeeMachineAssessment\CoffeeMachineAssessment\obj\Debug\CoffeeMachineAssessment.pdb
